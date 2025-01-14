@@ -1,4 +1,6 @@
-## This project is used for Metrics Comparison (Generates line graphs for different metrics). These figures are svg, so it has a functionality to convert svg to png.
+## Metrics Comparison 
+This project was used to generates line graphs for different metrics. These figures are in svg format, so it also has a functionality to convert svg to png.
+
 First, install the package:
 
 ```bash
@@ -23,7 +25,7 @@ pnpm dev
 bun dev
 ```
 
-The bash will give you link like this: [http://localhost:3000](http://localhost:3000) Open with your browser to see the result.
+It will start on Local: [http://localhost:5173/](http://localhost:5173/). Navigate on your browser to see the result.
 
 
 ### Result:
