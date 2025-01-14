@@ -1,0 +1,26 @@
+{
+  "name": "model-metrics-comparison",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/material": "^6.3.1",
+    "html-to-image": "^1.11.11",
+    "lucide-react": "^0.471.1",
+    "model-metrics-comparison": "file:",
+    "preact": "^10.25.3",
+    "recharts": "^2.15.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.9.3",
+    "typescript": "~5.6.2",
+    "vite": "^6.0.5"
+  }
+}
